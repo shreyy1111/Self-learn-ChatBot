@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey"
+    },
+    {
+      "question": "hey boy",
+      "answer": "hi sir"
+    },
+    {
+      "question": "hey fella",
+      "answer": "hi sir"
+    },
+    {
+      "question": "how you doing",
+      "answer": "fine sir"
+    },
+    {
+      "question": "Poco",
+      "answer": "yes sir"
+    },
+    {
+      "question": "Wake up Poco",
+      "answer": "what can i do for you sir"
+    },
+    {
+      "question": "hey poco",
+      "answer": "hey"
+    },
+    {
+      "question": "hey",
+      "answer": "hey"
+    }
+  ]
+}
